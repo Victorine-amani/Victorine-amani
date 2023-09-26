@@ -19,8 +19,8 @@
 <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
     <img src="https://bit.ly/48x5FVV" width="10%", height="10%" align="left"/>
   </a><br>
-  <a href="victorinenyagwala@gmail.com">
-    <img src="https://bit.ly/3t0mOXy" width="6%", height="6%"/>
+  <a href="mailto:victorinenyagwala@gmail.com">
+    <img src="https://bit.ly/3t0mOXy" width="5%", height="5%"/>
   </a>
   </div>
 
