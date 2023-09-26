@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Victorine-amani/Victorine-amani/assets/79209559/c2b81fa2-08cb-455b-9f53-75823538cb18)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Victorine-amani/Victorine-amani/assets/79209559/c2b81fa2-08cb-455b-9f53-75823538cb18)" width="100"/>
 </div>
 <div id="badges">
 <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://o.remove.bg/downloads/b421b5e1-2a84-4bf4-88de-33764ffb6651/alexander-shatov-9Zjd7PE_FRM-unsplash-removebg-preview.png)" alt="LinkedIn Badge"/>
   </a>
 </div>
 
