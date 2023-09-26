@@ -1,7 +1,8 @@
 <h1 id="heading"  align="center">
   Hi👋, I'm Victorine Amani<br>
   A Backend Developer
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/embed/hpXdHPfFI5wTABdDx9)" width="30px"/>
+  <img src="![giphy](https://github.com/Victorine-amani/Victorine-amani/assets/79209559/c135f548-dd19-42cc-ad06-0dc58d313a1e)
+" width="30px"/>
 </h1>
 <div id="badges">
 <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
