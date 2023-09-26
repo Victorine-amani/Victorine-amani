@@ -1,10 +1,11 @@
-<h1>
-  Hi👋, I'm Victorine Amani/n
+<h1 id="heading"  align="center">
+  Hi👋, I'm Victorine Amani
   A Backend Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Victorine-amani/Victorine-amani/assets/79209559/c2b81fa2-08cb-455b-9f53-75823538cb18)" width="100"/>
+ <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 </div>
 <div id="badges">
 <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
