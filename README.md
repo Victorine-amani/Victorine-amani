@@ -15,13 +15,12 @@
 - ⚡ Fun fact: My most prized possession is my 5ft teddy bear that I named TEDDY
 
 ### ☎️: Connect with me:
-
-  Connect with me<br>
+<div>
   <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
     <img src="https://bit.ly/48x5FVV" width="10%", height="10%"/>
-  </a>
+  </a><br>
    <a href="victorinenyagwala@gmail.com">
     <img src="https://bit.ly/3t0mOXy" width="10%", height="10%"/>
   </a>
-  
+  </div>
 
