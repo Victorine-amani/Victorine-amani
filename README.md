@@ -19,7 +19,7 @@
     <img src="https://bit.ly/48x5FVV" width="5%", height="5%" float="left"/>
   </a>
   <a href="mailto:victorinenyagwala@gmail.com">
-    <img src="https://bit.ly/3t0mOXy" width="2.5%", height="2.5%" float="left"/>
+    <img src="https://bit.ly/3t0mOXy" width="2.5%", height="2.5%"/>
   </a>
   </div>
 
