@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://bit.ly/3ZtsqWx" width="100"/>
+  <img src="https://bit.ly/3ZtsqWx" size="100%"/>
 </div>
 <h1 id="heading"  align="center">
   Hi👋, I'm Victorine Amani<br>
