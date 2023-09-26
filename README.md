@@ -9,8 +9,9 @@
 - 🔭 I’m currently working on iCare
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on SocianMobileApp
-- 📧: Get in touch with me   <a href="mailto:victorinenyagwala@gmail.com">
-    <img src="https://bit.ly/3t0mOXy" width="2.5%", height="2.5%"/>
+- 📧: Get in touch with me
+  <a href="mailto:victorinenyagwala@gmail.com">
+  <img src="https://bit.ly/3t0mOXy" width="2.5%", height="2.5%"/>
   </a>
 - 💬 Ask me about Django
 - 😄 Pronouns: She/Her
