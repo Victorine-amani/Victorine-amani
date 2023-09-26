@@ -2,10 +2,6 @@
 
 ### Hi👋, I'm Victorine Amani
 ### A Backend Developer
-<!--
-**Victorine-amani/Victorine-amani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on iCare
 - 🌱 I’m currently learning Data Science
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/victorine-nyagwala-a59080215/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My most prized possession is my 5ft teddybear that I named TEDDY
--->
+
