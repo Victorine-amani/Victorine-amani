@@ -5,7 +5,7 @@
   Hi👋, I'm Victorine Amani<br>
 </h1>
 
-<h2>Backend Developer</h2>
+<h2 align="center">Backend Developer</h2>
 
 - 🔭 I’m currently working on iCare
 - 🌱 I’m currently learning Data Science
