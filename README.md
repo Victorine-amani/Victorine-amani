@@ -16,10 +16,10 @@
 ### ☎️: Connect with me:
 <div >
 <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
-    <img src="https://bit.ly/48x5FVV" width="7%", height="7%" float="left"/>
+    <img src="https://bit.ly/48x5FVV" width="5%", height="5%" float="left"/>
   </a>
   <a href="mailto:victorinenyagwala@gmail.com">
-    <img src="https://bit.ly/3t0mOXy" width="5%", height="5%" float="left"/>
+    <img src="https://bit.ly/3t0mOXy" width="3%", height="3%" float="left"/>
   </a>
   </div>
 
