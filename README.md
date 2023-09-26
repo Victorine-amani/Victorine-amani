@@ -16,5 +16,7 @@
 
 <h2>
   Connect with me
-    <img src="https://bit.ly/48x5FVV" width="40%", height="40%"/>
+  <a href="https://www.linkedin.com/in/victorine-nyagwala-a59080215/">
+    <img src="https://bit.ly/48x5FVV" width="10%", height="10%"/>
+  </a>
 </h2>
