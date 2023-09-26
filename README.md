@@ -9,10 +9,8 @@
 - 🔭 I’m currently working on iCare
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on SocianMobileApp
-- 📧: Get in touch with me
-  <a href="mailto:victorinenyagwala@gmail.com">
-  <img src="https://bit.ly/3t0mOXy" width="2.5%", height="2.5%"/>
-  </a>
+- 📧: Get in touch with me through victorinenyagwala@gmail.com
+  
 - 💬 Ask me about Django
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My most prized possession is my 5ft teddy bear that I named TEDDY
